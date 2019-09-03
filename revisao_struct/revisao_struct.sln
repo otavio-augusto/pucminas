@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "revisao_struct", "revisao_struct\revisao_struct.csproj", "{38299E93-BBE2-4BC3-9722-E745EAD20792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38299E93-BBE2-4BC3-9722-E745EAD20792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38299E93-BBE2-4BC3-9722-E745EAD20792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38299E93-BBE2-4BC3-9722-E745EAD20792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38299E93-BBE2-4BC3-9722-E745EAD20792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {082F9807-B7E4-4CAA-B446-FF61039572B6}
+	EndGlobalSection
+EndGlobal

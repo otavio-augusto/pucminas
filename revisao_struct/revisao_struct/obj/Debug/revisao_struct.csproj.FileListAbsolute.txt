@@ -1,0 +1,7 @@
+C:\Users\otavio\source\repos\revisao_struct\revisao_struct\bin\Debug\revisao_struct.exe.config
+C:\Users\otavio\source\repos\revisao_struct\revisao_struct\bin\Debug\revisao_struct.exe
+C:\Users\otavio\source\repos\revisao_struct\revisao_struct\bin\Debug\revisao_struct.pdb
+C:\Users\otavio\source\repos\revisao_struct\revisao_struct\obj\Debug\revisao_struct.csprojAssemblyReference.cache
+C:\Users\otavio\source\repos\revisao_struct\revisao_struct\obj\Debug\revisao_struct.csproj.CoreCompileInputs.cache
+C:\Users\otavio\source\repos\revisao_struct\revisao_struct\obj\Debug\revisao_struct.exe
+C:\Users\otavio\source\repos\revisao_struct\revisao_struct\obj\Debug\revisao_struct.pdb

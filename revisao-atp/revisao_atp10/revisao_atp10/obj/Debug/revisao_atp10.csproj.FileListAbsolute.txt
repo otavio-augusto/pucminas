@@ -1,0 +1,7 @@
+C:\Users\otavio\source\repos\revisao_atp10\revisao_atp10\bin\Debug\revisao_atp10.exe.config
+C:\Users\otavio\source\repos\revisao_atp10\revisao_atp10\bin\Debug\revisao_atp10.exe
+C:\Users\otavio\source\repos\revisao_atp10\revisao_atp10\bin\Debug\revisao_atp10.pdb
+C:\Users\otavio\source\repos\revisao_atp10\revisao_atp10\obj\Debug\revisao_atp10.csprojAssemblyReference.cache
+C:\Users\otavio\source\repos\revisao_atp10\revisao_atp10\obj\Debug\revisao_atp10.csproj.CoreCompileInputs.cache
+C:\Users\otavio\source\repos\revisao_atp10\revisao_atp10\obj\Debug\revisao_atp10.exe
+C:\Users\otavio\source\repos\revisao_atp10\revisao_atp10\obj\Debug\revisao_atp10.pdb

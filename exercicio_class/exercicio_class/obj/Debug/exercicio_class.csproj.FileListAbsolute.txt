@@ -1,0 +1,7 @@
+C:\Users\otavio\source\repos\exercicio_class\exercicio_class\bin\Debug\exercicio_class.exe.config
+C:\Users\otavio\source\repos\exercicio_class\exercicio_class\bin\Debug\exercicio_class.exe
+C:\Users\otavio\source\repos\exercicio_class\exercicio_class\bin\Debug\exercicio_class.pdb
+C:\Users\otavio\source\repos\exercicio_class\exercicio_class\obj\Debug\exercicio_class.csprojAssemblyReference.cache
+C:\Users\otavio\source\repos\exercicio_class\exercicio_class\obj\Debug\exercicio_class.csproj.CoreCompileInputs.cache
+C:\Users\otavio\source\repos\exercicio_class\exercicio_class\obj\Debug\exercicio_class.exe
+C:\Users\otavio\source\repos\exercicio_class\exercicio_class\obj\Debug\exercicio_class.pdb

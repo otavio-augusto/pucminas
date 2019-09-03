@@ -1,0 +1,7 @@
+C:\Users\otavio\source\repos\revisao_atp06\revisao_atp06\bin\Debug\revisao_atp06.exe.config
+C:\Users\otavio\source\repos\revisao_atp06\revisao_atp06\bin\Debug\revisao_atp06.exe
+C:\Users\otavio\source\repos\revisao_atp06\revisao_atp06\bin\Debug\revisao_atp06.pdb
+C:\Users\otavio\source\repos\revisao_atp06\revisao_atp06\obj\Debug\revisao_atp06.csprojAssemblyReference.cache
+C:\Users\otavio\source\repos\revisao_atp06\revisao_atp06\obj\Debug\revisao_atp06.csproj.CoreCompileInputs.cache
+C:\Users\otavio\source\repos\revisao_atp06\revisao_atp06\obj\Debug\revisao_atp06.exe
+C:\Users\otavio\source\repos\revisao_atp06\revisao_atp06\obj\Debug\revisao_atp06.pdb

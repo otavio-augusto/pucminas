@@ -1,0 +1,6 @@
+C:\Users\otavio\source\repos\revisao_atp05\revisao_atp05\bin\Debug\revisao_atp05.exe.config
+C:\Users\otavio\source\repos\revisao_atp05\revisao_atp05\bin\Debug\revisao_atp05.exe
+C:\Users\otavio\source\repos\revisao_atp05\revisao_atp05\bin\Debug\revisao_atp05.pdb
+C:\Users\otavio\source\repos\revisao_atp05\revisao_atp05\obj\Debug\revisao_atp05.csproj.CoreCompileInputs.cache
+C:\Users\otavio\source\repos\revisao_atp05\revisao_atp05\obj\Debug\revisao_atp05.exe
+C:\Users\otavio\source\repos\revisao_atp05\revisao_atp05\obj\Debug\revisao_atp05.pdb

@@ -1,0 +1,7 @@
+C:\Users\otavio\source\repos\tad-classes_07\tad-classes_07\bin\Debug\tad-classes_07.exe.config
+C:\Users\otavio\source\repos\tad-classes_07\tad-classes_07\bin\Debug\tad-classes_07.exe
+C:\Users\otavio\source\repos\tad-classes_07\tad-classes_07\bin\Debug\tad-classes_07.pdb
+C:\Users\otavio\source\repos\tad-classes_07\tad-classes_07\obj\Debug\tad-classes_07.csprojAssemblyReference.cache
+C:\Users\otavio\source\repos\tad-classes_07\tad-classes_07\obj\Debug\tad-classes_07.csproj.CoreCompileInputs.cache
+C:\Users\otavio\source\repos\tad-classes_07\tad-classes_07\obj\Debug\tad-classes_07.exe
+C:\Users\otavio\source\repos\tad-classes_07\tad-classes_07\obj\Debug\tad-classes_07.pdb
