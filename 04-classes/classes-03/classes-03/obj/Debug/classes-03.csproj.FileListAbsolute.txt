@@ -1,0 +1,7 @@
+C:\Users\otavio\OneDrive - sga.pucminas.br\Material\Programação Orientada\Atividades\04 - Classes\classes-03\classes-03\obj\Debug\classes-03.csprojAssemblyReference.cache
+C:\Users\otavio\OneDrive - sga.pucminas.br\Material\Programação Orientada\Atividades\04 - Classes\classes-03\classes-03\obj\Debug\classes-03.csproj.CoreCompileInputs.cache
+C:\Users\otavio\OneDrive - sga.pucminas.br\Material\Programação Orientada\Atividades\04 - Classes\classes-03\classes-03\bin\Debug\classes-03.exe.config
+C:\Users\otavio\OneDrive - sga.pucminas.br\Material\Programação Orientada\Atividades\04 - Classes\classes-03\classes-03\bin\Debug\classes-03.exe
+C:\Users\otavio\OneDrive - sga.pucminas.br\Material\Programação Orientada\Atividades\04 - Classes\classes-03\classes-03\bin\Debug\classes-03.pdb
+C:\Users\otavio\OneDrive - sga.pucminas.br\Material\Programação Orientada\Atividades\04 - Classes\classes-03\classes-03\obj\Debug\classes-03.exe
+C:\Users\otavio\OneDrive - sga.pucminas.br\Material\Programação Orientada\Atividades\04 - Classes\classes-03\classes-03\obj\Debug\classes-03.pdb
