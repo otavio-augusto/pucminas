@@ -1,0 +1,7 @@
+C:\Users\otavio\source\repos\prova-ex01\prova-ex01\bin\Debug\prova-ex01.exe.config
+C:\Users\otavio\source\repos\prova-ex01\prova-ex01\bin\Debug\prova-ex01.exe
+C:\Users\otavio\source\repos\prova-ex01\prova-ex01\bin\Debug\prova-ex01.pdb
+C:\Users\otavio\source\repos\prova-ex01\prova-ex01\obj\Debug\prova-ex01.csprojAssemblyReference.cache
+C:\Users\otavio\source\repos\prova-ex01\prova-ex01\obj\Debug\prova-ex01.csproj.CoreCompileInputs.cache
+C:\Users\otavio\source\repos\prova-ex01\prova-ex01\obj\Debug\prova-ex01.exe
+C:\Users\otavio\source\repos\prova-ex01\prova-ex01\obj\Debug\prova-ex01.pdb
