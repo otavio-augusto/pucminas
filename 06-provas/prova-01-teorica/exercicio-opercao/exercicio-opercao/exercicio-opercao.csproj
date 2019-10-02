@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42ABF42D-E664-4035-95CB-7386DF696A23}</ProjectGuid>
+    <ProjectGuid>{878D7B65-5C31-492C-AD82-2FD22AC4BB3B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>prova_01</RootNamespace>
-    <AssemblyName>prova-01</AssemblyName>
+    <RootNamespace>exercicio_opercao</RootNamespace>
+    <AssemblyName>exercicio-opercao</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dados.cs" />
-    <Compile Include="Funcionario.cs" />
+    <Compile Include="Operacao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

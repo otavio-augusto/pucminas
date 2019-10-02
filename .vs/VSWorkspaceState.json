@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\projeto-mvc",
+    "\\projeto-mvc\\MVC"
   ],
-  "SelectedNode": "\\05-revisao-prova",
+  "SelectedNode": "\\projeto-mvc\\MVC\\MVC.sln",
   "PreviewInSolutionExplorer": false
 }

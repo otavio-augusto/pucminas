@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42ABF42D-E664-4035-95CB-7386DF696A23}</ProjectGuid>
+    <ProjectGuid>{5EA60CE2-AC17-41AF-AED8-51EBC1CAA0DA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>prova_01</RootNamespace>
-    <AssemblyName>prova-01</AssemblyName>
+    <RootNamespace>exercicio_funcionario</RootNamespace>
+    <AssemblyName>exercicio-funcionario</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dados.cs" />
+    <Compile Include="AumentoSalarial.cs" />
+    <Compile Include="Estrategia.cs" />
     <Compile Include="Funcionario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

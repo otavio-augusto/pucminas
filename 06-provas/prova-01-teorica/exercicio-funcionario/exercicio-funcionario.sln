@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-funcionario", "exercicio-funcionario\exercicio-funcionario.csproj", "{5EA60CE2-AC17-41AF-AED8-51EBC1CAA0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA60CE2-AC17-41AF-AED8-51EBC1CAA0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA60CE2-AC17-41AF-AED8-51EBC1CAA0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA60CE2-AC17-41AF-AED8-51EBC1CAA0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA60CE2-AC17-41AF-AED8-51EBC1CAA0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DAC7EE4-57AD-48A5-9CCB-732DA3331D8B}
+	EndGlobalSection
+EndGlobal
