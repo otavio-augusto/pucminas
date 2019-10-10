@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade-icomparer", "atividade-icomparer\atividade-icomparer.csproj", "{54B4C044-3C7F-44BC-8446-8F4CC7E93B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B4C044-3C7F-44BC-8446-8F4CC7E93B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B4C044-3C7F-44BC-8446-8F4CC7E93B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B4C044-3C7F-44BC-8446-8F4CC7E93B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B4C044-3C7F-44BC-8446-8F4CC7E93B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5710D1F8-248F-4FAB-B79B-1D6DC6A46609}
+	EndGlobalSection
+EndGlobal
