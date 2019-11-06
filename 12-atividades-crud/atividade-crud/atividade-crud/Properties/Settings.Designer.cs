@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace atividade_abstracao_01.Properties
+namespace atividade_crud.Properties
 {
 
 

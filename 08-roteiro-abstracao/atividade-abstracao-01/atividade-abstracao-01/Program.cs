@@ -1,22 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace atividade_abstracao_01
 {
-    static class Program
+    class Program
     {
-        /// <summary>
-        /// Ponto de entrada principal para o aplicativo.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Console.WriteLine("Valor de N: "); int n = int.Parse(Console.ReadLine());
+            Console.WriteLine("Valor de P: "); int p = int.Parse(Console.ReadLine());
+
+            Permutacao permutacao = new Permutacao();
+            Console.WriteLine("Permutação.: {0}", permutacao.calcular(n));
+
+            Arranjo arranjo = new Arranjo();
+            Console.WriteLine("Arranjo....: {0}", arranjo.calcular(n, p));
+
+            Combinacao combinacao = new Combinacao();
+            Console.WriteLine("Combinação.: {0}", combinacao.calcular(n, p));
+
+            Console.ReadKey();
         }
     }
 }

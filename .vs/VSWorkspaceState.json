@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\07-abstracao",
-    "\\projeto-mvc",
-    "\\projeto-mvc\\MVC"
+    "\\08-roteiro-abstracao\\atividade-abstracao-01",
+    "\\atividade-primo",
+    "\\atividade-primo\\atividade-primo"
   ],
-  "SelectedNode": "\\08-roteiro-abstracao",
+  "SelectedNode": "\\atividade-primo\\atividade-primo\\Numero.cs",
   "PreviewInSolutionExplorer": false
 }
